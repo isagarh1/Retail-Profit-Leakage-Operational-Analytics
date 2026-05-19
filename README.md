@@ -1,5 +1,8 @@
 # Retail Operations & Profitability Dashboard
 
+## Overview
+This project analyzes retail sales, profitability, returns, and fulfillment performance using SQL and Power BI. The dashboard was designed to identify margin leakage, operational inefficiencies, and regional return trends through KPI-driven retail analytics and business-focused data visualization
+
 ## Business Problem
 Despite consistent sales growth, the business faced profitability pressure due to high discounting, return-heavy regions, and fulfillment inefficiencies. 
 The objective was to identify operational and financial areas impacting overall business performance.
